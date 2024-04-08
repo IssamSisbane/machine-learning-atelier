@@ -1,4 +1,4 @@
-# BIG DATA
+# Machine Learning Atelier
 
 Ce projet regroupe des travaux que j'ai pu réaliser dans le cadre de mes cours afin de me familiariser avec le **Machine Learning** et les **méthodes d'apprentissage**.
 
