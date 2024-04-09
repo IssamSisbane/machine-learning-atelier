@@ -1,10 +1,12 @@
-# Machine Learning Atelier
+# Machine Learning Workshop
 
-Ce projet regroupe des travaux que j'ai pu réaliser dans le cadre de mes cours afin de me familiariser avec le **Machine Learning** et les **méthodes d'apprentissage**.
+This project gathers works I have completed as part of my courses to familiarize myself with **Machine Learning** and **learning methods**.
 
-## Travaux
-* Atelier_1 : Un travail en utilisant de l'apprentissage supervisé.
-* Atelier_2 : Un travvail en utilisant des réseaux de neurones et de l'apprentissage semi-supervisé.
+Learn more about this project [here](https://issamsisbane.github.io/portfolio/en/projects/machine-learning-atelier/)
 
-## Utilisation
-* Les notebooks sont déjà lancées, les datasets utilisés sont aussi fournis.
+## Works
+* Workshop_1: A work using supervised learning.
+* Workshop_2: A work using neural networks and semi-supervised learning.
+
+## Usage
+* The notebooks are already launched, and the datasets used are also provided.
